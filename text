@@ -1,0 +1,16 @@
+/space-game
+├── /public
+│   ├── index.html
+│   ├── game.html
+│   ├── gameover.html
+│   ├── style.css
+│   ├── script.js
+│   ├── /assets
+│   │   ├── player.png
+│   │   ├── asteroid.png
+│   │   ├── bullet.png
+├── /server
+│   ├── server.js
+│   ├── scores.json
+├── package.json
+├── README.md
